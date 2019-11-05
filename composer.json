@@ -1,0 +1,12 @@
+{
+    "name": "ali/blog_perso",
+    "authors": [
+        {
+            "name": "Link1986",
+            "email": "ali.ghoudi@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
